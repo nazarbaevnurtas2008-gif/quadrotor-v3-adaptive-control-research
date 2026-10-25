@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If using the data or code, please cite this research artifact and its version."
+title: "Quadrotor V3: Online Effective-Mass Estimation and Bumpless Integral Coordination — Computational Research Artifact"
+authors:
+  - family-names: Nazarbayev
+    given-names: Nurtas
+date-released: 2026-10-25
+version: 1.0.0
+type: software
+repository-code: "https://github.com/nazarbaevnurtas2008-gif/quadrotor-v3-adaptive-control-research"
+abstract: "AI-assisted student simulation artifact with bounded-budget controller tuning, matched held-out synthetic trials and actuator-cap stress experiments; not peer-reviewed or flight validated."
