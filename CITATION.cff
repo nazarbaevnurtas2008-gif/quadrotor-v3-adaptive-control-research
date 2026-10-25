@@ -6,6 +6,7 @@ authors:
     given-names: Nurtas
 date-released: 2026-10-25
 version: 1.0.0
+doi: 10.5281/zenodo.23634343
 type: software
 repository-code: "https://github.com/nazarbaevnurtas2008-gif/quadrotor-v3-adaptive-control-research"
 abstract: "AI-assisted student simulation artifact with bounded-budget controller tuning, matched held-out synthetic trials and actuator-cap stress experiments; not peer-reviewed or flight validated."
